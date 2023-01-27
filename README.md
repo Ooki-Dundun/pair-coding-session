@@ -1,3 +1,3 @@
 # Pair coding session
 
-Purpose of the project: TBC.
+Problem to be defined by Eugene.
